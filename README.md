@@ -2,6 +2,7 @@
 ###### Front_end, React
 **Learing Next.js (CSR / SSR / SSG)**
 
+- PLM developer / Alten (24.06 ~)
 - Front_end developer / Iden-it (22.11 ~ 23.10)
 - React Full-stack course student / ezen academy (22.01 ~ 22.09)
 - Majoring in computer science, pursuing completion
