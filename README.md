@@ -3,6 +3,7 @@
 **Learing Next.js (CSR / SSR / SSG)**
 
 - PLM developer / Alten (24.06 ~)
+- Self-directed Learning and Side Projects on Spring Frameworks (23.11 ~ 24.05)
 - Front_end developer / Iden-it (22.11 ~ 23.10)
 - React Full-stack course student / ezen academy (22.01 ~ 22.09)
 - Majoring in computer science, pursuing completion
@@ -25,7 +26,7 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-###### New Skills
+###### Exposure to
 <div>
 <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
