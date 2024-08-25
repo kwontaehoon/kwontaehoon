@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻 About Me
-###### Front_end, React
-**Learing Next.js (CSR / SSR / SSG)**
+###### Full-stack
+**Learing Vue.js / Java**
 
 - PLM developer / Alten (24.06 ~)
 - Self-directed Learning and Side Projects on Spring Frameworks (23.11 ~ 24.05)
